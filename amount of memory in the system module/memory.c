@@ -5,7 +5,6 @@
 
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Abylay");
-MODULE_DESCRIPTION("A simple example Linux module.");
 MODULE_VERSION("0.1");
 
 static int __init memory_init(void) {
